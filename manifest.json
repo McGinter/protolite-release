@@ -685,9 +685,9 @@
       "plugins": [
         "com.protolite.ganom.customswapper.CustomSwapper"
       ],
-      "version": "0.1.0",
+      "version": "0.2.0",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-custom-swapper.jar",
-      "hash": "49a5650815f4cf427b5cdfa77654d226f3f6a17ef4906673d13b75adabee87fd",
+      "hash": "a8b25d5228818d9d3a4274025c8788b11de5a8478744ae0245a5b0ce534f67d0",
       "description": "Configured hotkey sequences for equipment, prayers, spells and special attack."
     },
     {
