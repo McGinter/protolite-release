@@ -155,9 +155,9 @@
       "plugins": [
         "com.protolite.developertools.ToolsPlugin"
       ],
-      "version": "1.0.3",
+      "version": "1.0.4",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/developertools.jar",
-      "hash": "6e51ed96ce10cb84dd868622b024ea242f6e335c56af896fd5117adf8ffed107",
+      "hash": "bffb116a15d1e2a41e338d8a33fb160940bf08d7b0797f888096bcd5bfc18e29",
       "description": "Additional developer tools for plugin development."
     },
     {
@@ -295,9 +295,9 @@
       "plugins": [
         "com.protolite.panelhider.PanelHiderPlugin"
       ],
-      "version": "1.0.2",
+      "version": "1.0.3",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/panelhider.jar",
-      "hash": "17c99fdca1659198e5e9137ec2c7028e2951c703ef1c5a28611abafdd880304e",
+      "hash": "e8c02084a636f0f717c6708f410c8f069939ac97000d52da5acc639774f894b2",
       "description": "Hides panels via tooltip text"
     },
     {
