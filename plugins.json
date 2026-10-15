@@ -136,8 +136,8 @@
     "releases": [
       {
         "date": "2026-10-14",
-        "sha512sum": "E51FE26C8529559B7C12D63B58F5FBBE03704D555C5205B269171F856341B41AB43B546A335F086F74DA8AFDBC1971BBDE946CBFE8F2ECC64D5F52529EA17BF3",
-        "version": "0.1.2",
+        "sha512sum": "C146E77B36798C3A5D471DC59EA9AA222EBEF5972BBC0732F9AA7B4CD5377BF7773B927462AEDABB2FCE26D2C73E76C876FEC07AC20BB4BE507D95211D272B6B",
+        "version": "0.1.3",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
         "requires": "^1.0.0"
       }
@@ -820,8 +820,8 @@
     "releases": [
       {
         "date": "2026-10-14",
-        "sha512sum": "67449AC0305358ED44FD989088C41F8308623D38E03019336D99EC908C8BE48AC79B26A4AE1C3AB0E15035AB20141126F3058BA636E561A1AA461D4954DAFB87",
-        "version": "1.0.16",
+        "sha512sum": "6C36CC72BC39D3EEE7CC0C80C71EC1DB5460D0E32A57A1D55F972BED7A02EE1A6BEFF5102EEB8047E6F8743F77E557C681322C74D68A4373B78A84A3E99210AC",
+        "version": "1.0.17",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spooncox.jar",
         "requires": "^1.0.0"
       }
@@ -1251,10 +1251,10 @@
     "id": "ganom-oneclick",
     "releases": [
       {
-        "sha512sum": "CB72CA779B6F8183C5E61A33FD4B858355D93036E4E5BE51FEC2686E83D2FE5C805B2D566CED728772D8A59581BE330559534B8340ADE49D5AAE0F17E676FF7D",
+        "sha512sum": "FE5A381616E2E9FC441851373F0E462B440B1CEF07BF04E88D2FA131DE828F3F9DD4158FF5D6CACFCADD8926D20B9A6B2234C020B197E6270C6EFB98D11416B3",
         "date": "2026-10-15",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-oneclick.jar",
-        "version": "0.1.0",
+        "version": "0.1.1",
         "requires": "^1.0.0"
       }
     ]
