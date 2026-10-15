@@ -1,0 +1,704 @@
+{
+  "artifacts": [
+    {
+      "name": "alchemicalhydra.jar",
+      "plugins": [
+        "com.protolite.alchemicalhydra.HydraPlugin"
+      ],
+      "version": "1.0.10",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/alchemicalhydra.jar",
+      "hash": "ab4526c3c530eb35dc2c8b526742f012df2913943d4603f719f4957d95cfc6d9",
+      "description": "An overlay plugin for the Alchemical Hydra boss."
+    },
+    {
+      "name": "aoe.jar",
+      "plugins": [
+        "com.protolite.aoe.ProjectilePlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/aoe.jar",
+      "hash": "252a2966cb3f47f928dae5016e5c14653ab15249634879eec3af4f406ae352f0",
+      "description": "Displays where AoE attacks are going to land."
+    },
+    {
+      "name": "araxxor.jar",
+      "plugins": [
+        "com.protolite.araxxor.AraxxorPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/araxxor.jar",
+      "hash": "7c1b78fe1b8e4e750eb5ab66e599c916f9bbea283d500f02b13f7f3868d125de",
+      "description": "Araxxor plugin."
+    },
+    {
+      "name": "badangel.jar",
+      "plugins": [
+        "com.protolite.badangel.BadAngelPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/badangel.jar",
+      "hash": "ea100419effcf6d2d5f6c4ada7b38bc68141173ca0c7c77bfacd28ebde988833",
+      "description": "It could have been so much better......."
+    },
+    {
+      "name": "bonylo.jar",
+      "plugins": [
+        "com.protolite.bonylo.BoNyloPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/bonylo.jar",
+      "hash": "13b694b0cb53aa2b5e33a305ce6e0f6bd205979e2adb83a0e6e9dc39bf7fc901",
+      "description": "Nylo ticks good."
+    },
+    {
+      "name": "boosts2.jar",
+      "plugins": [
+        "com.protolite.boosts2.Boosts2Plugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/boosts2.jar",
+      "hash": "93b5b2ef813e5bbb375dc507768d0b2e3df901aa686b23772660da93d0e0248c",
+      "description": "This is just Boosts Information with custom postive/negative colors"
+    },
+    {
+      "name": "cerberushelper.jar",
+      "plugins": [
+        "com.protolite.cerberushelper.CerberusPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/cerberushelper.jar",
+      "hash": "08a41136a91cf3fdbbccd8177afbe7892a984c212f37a285c82cbfd668f12da4",
+      "description": "A helper plugin for the Cerberus boss."
+    },
+    {
+      "name": "protoliteexternalmanager.jar",
+      "plugins": [
+        "com.protolite.protoliteexternalmanager.ProtoLiteExternalManager"
+      ],
+      "version": "0.1.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
+      "hash": "b24e1f55498b4c6467ecb0d6d550a464c2118c7bcd3de225db1d9c8a3f5075ce",
+      "description": "ProtoLite external plugin manager and API"
+    },
+    {
+      "name": "colosseumplus.jar",
+      "plugins": [
+        "com.protolite.colosseumplus.ColosseumPlusPlugin"
+      ],
+      "version": "1.2.6",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/colosseumplus.jar",
+      "hash": "f416b951238a8c129a6d75d0fd9f579554daa5bbb00d3b387b119df2e14dd19d",
+      "description": "Fortis Colosseum plugin."
+    },
+    {
+      "name": "cursed.jar",
+      "plugins": [
+        "com.protolite.cursed.CursedPlugin"
+      ],
+      "version": "1.0.6",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/cursed.jar",
+      "hash": "af39e2edc75d409bd9cc159d95712c58ee7ac549902264b88581af33d502c5c0",
+      "description": "I don't know why....i don't know how.. it just is"
+    },
+    {
+      "name": "customgraphics.jar",
+      "plugins": [
+        "com.protolite.customgraphics.CustomGraphicsPlugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/customgraphics.jar",
+      "hash": "da8b728273e498b11af2ffb359846b9a974b3fd8336483a99ca7a6ae18e654da",
+      "description": "Adds custom graphics"
+    },
+    {
+      "name": "debugtool.jar",
+      "plugins": [
+        "com.protolite.debugtool.DebugToolPlugin"
+      ],
+      "version": "1.0.7",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/debugtool.jar",
+      "hash": "a0e68666412a4be2d5673d0512d404e2cf9757b46b6542ba8554fb1d98a285bd",
+      "description": "Additional developer tools for plugin development."
+    },
+    {
+      "name": "decorhighlight.jar",
+      "plugins": [
+        "com.protolite.decorhighlight.DecorHighlightPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/decorhighlight.jar",
+      "hash": "1c64e18bcda8f41ea391ee1a7dc0393a2b11c11490b6c46acd28da9fe4e9a4da",
+      "description": "Highlights a custom list of graphic objects and ground decorations."
+    },
+    {
+      "name": "delvediggers.jar",
+      "plugins": [
+        "com.protolite.delvediggers.DelveDiggersPlugin"
+      ],
+      "version": "1.0.12",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/delvediggers.jar",
+      "hash": "5f01dbc516f85ac6ce894fc9b2dbe517d012365782811e9cdf270ad0f0c512b7",
+      "description": "Where my diggers at"
+    },
+    {
+      "name": "demonicgorilla.jar",
+      "plugins": [
+        "com.protolite.demonicgorilla.DemonicGorillaPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/demonicgorilla.jar",
+      "hash": "4b496a682787fee97e6ee5435f155fd4164e568edd57d36b73493029231f0fc4",
+      "description": "Shows the next attack for Demonic Gorillas"
+    },
+    {
+      "name": "developertools.jar",
+      "plugins": [
+        "com.protolite.developertools.ToolsPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/developertools.jar",
+      "hash": "6e51ed96ce10cb84dd868622b024ea242f6e335c56af896fd5117adf8ffed107",
+      "description": "Additional developer tools for plugin development."
+    },
+    {
+      "name": "dksplus.jar",
+      "plugins": [
+        "com.protolite.dksplus.DksPlusPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/dksplus.jar",
+      "hash": "e4831570a2dc84eac4b6335f4ad3f88a8c05aa6814e4145d6924bd4d5d038843",
+      "description": "Plugin for dagannoth kings."
+    },
+    {
+      "name": "dt2.jar",
+      "plugins": [
+        "com.protolite.dt2.Dt2Plugin"
+      ],
+      "version": "1.0.8",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/dt2.jar",
+      "hash": "2034b773c2a68715abe6e4a2902135c853a820f5eb1f6f0d0581e1db73f96480",
+      "description": "Plugin for DT2 bosses."
+    },
+    {
+      "name": "effecttimers.jar",
+      "plugins": [
+        "com.protolite.effecttimers.EffectTimersPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/effecttimers.jar",
+      "hash": "04d2f618446ad873bd6a057b520126975418e6661a9e07033dee3acd1a874385",
+      "description": "Timers for various effects on players or npcs (Freeze, teleblock, veng.. etc)"
+    },
+    {
+      "name": "fightcave.jar",
+      "plugins": [
+        "com.protolite.fightcave.FightCavePlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/fightcave.jar",
+      "hash": "6e153535ada4e72001cfa17f676cf8cbc5a0dd165ad132424c621a71ead9b16c",
+      "description": "Plugin for those who cannot do Jad."
+    },
+    {
+      "name": "guardians.jar",
+      "plugins": [
+        "com.protolite.guardians.GGPlugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/guardians.jar",
+      "hash": "0185269015d238d6886881d1048389478ae6d40109239b5cfa5cd3123e61b83a",
+      "description": "Additional stuff Grotesque Guardians"
+    },
+    {
+      "name": "gwdticktimers.jar",
+      "plugins": [
+        "com.protolite.godwarsticktimers.GodWarsTickTimersPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/gwdticktimers.jar",
+      "hash": "0dc40ece56e6d7f86ad67efe3036bc8ef0385a5f202a2d665bd44b4eda5e742c",
+      "description": "Overlay plugin for the GWD bosses."
+    },
+    {
+      "name": "hallowedhelper.jar",
+      "plugins": [
+        "com.protolite.hallowedhelper.HallowedHelperPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hallowedhelper.jar",
+      "hash": "27cb4b438a463221f4e3e071b3e4de92ddbbb46576e6a7848ca24c15ae3a7c26",
+      "description": "Hallowed Sepulchre helper with tons of overlays"
+    },
+    {
+      "name": "infernoplus.jar",
+      "plugins": [
+        "com.protolite.infernoplus.InfernoPlusPlugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/infernoplus.jar",
+      "hash": "a81e1e88f28f3c83369f9ffa25e699ec346a28416becd1848c9205bc5f12c94b",
+      "description": "Inferno stuff (Mainly just guitar hero)"
+    },
+    {
+      "name": "jadhelper.jar",
+      "plugins": [
+        "com.protolite.spoonjadhelper.SpoonJadHelperPlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/jadhelper.jar",
+      "hash": "c17722338a634e918faa4d257f01c5938866f3ae979dbbe9b886b5fb8be03071",
+      "description": "Plugin for those who cannot do Jad."
+    },
+    {
+      "name": "maggottagit.jar",
+      "plugins": [
+        "com.protolite.maggottagit.MaggotTagItPlugin"
+      ],
+      "version": "1.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/maggottagit.jar",
+      "hash": "5771a9b0f06e87be089302ac9602d0da8e5ba285722b595d99fb30127241c90a",
+      "description": "Give us another banger questline ending Jagex (And sure Maggot King too)"
+    },
+    {
+      "name": "muspahpluspah.jar",
+      "plugins": [
+        "com.protolite.muspahpluspah.MuspahPluspahPlugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/muspahpluspah.jar",
+      "hash": "2360d113494f6f54cac57ea8b70144ea586940f77e4168ed111d87ffca666aec",
+      "description": "Muspah plugin."
+    },
+    {
+      "name": "orbpulse.jar",
+      "plugins": [
+        "com.protolite.orbpulse.OrbPulsePlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/orbpulse.jar",
+      "hash": "644d5abd9bd5c66ac987dc08002ff2f6f07c2d64927defd4b2cbc12625879c26",
+      "description": "Makes the Health and/or Spec orbs pulse."
+    },
+    {
+      "name": "outgoingchatfilter.jar",
+      "plugins": [
+        "com.protolite.outgoingchatfilter.OutgoingChatFilterPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/outgoingchatfilter.jar",
+      "hash": "29835e7ba14bce6d65b7fab1044a9485830d9c68c6df8404ad2bad73bf5927de",
+      "description": "Stops you from saying naughty words."
+    },
+    {
+      "name": "panelhider.jar",
+      "plugins": [
+        "com.protolite.panelhider.PanelHiderPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/panelhider.jar",
+      "hash": "17c99fdca1659198e5e9137ec2c7028e2951c703ef1c5a28611abafdd880304e",
+      "description": "Hides panels via tooltip text"
+    },
+    {
+      "name": "pvpplayerindicators.jar",
+      "plugins": [
+        "com.protolite.pvpplayerindicators.PvPPlayerIndicatorsPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/pvpplayerindicators.jar",
+      "hash": "0011d39166f67242d6aa4837a13d2fc52521897365e48fc9539116cf94bd7828",
+      "description": "Additional player indicators features for PvP"
+    },
+    {
+      "name": "smithing.jar",
+      "plugins": [
+        "com.protolite.smithing.SmithingPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/smithing.jar",
+      "hash": "22dc70a7e9aa9d294e201519e24803f09e58d59a3bd43c5f6c3c6757eefd4f3a",
+      "description": "Easy mode smithing."
+    },
+    {
+      "name": "socket.jar",
+      "plugins": [
+        "com.protolite.socket.SocketPlugin"
+      ],
+      "version": "1.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socket.jar",
+      "hash": "23f76a71beaaeba95d693c8b474b83301ac7ad0925f0b5589f1cca0fb77e4594",
+      "description": "Allows communication between other players for sotetseg maze, special attacks, and more."
+    },
+    {
+      "name": "socketba.jar",
+      "plugins": [
+        "com.protolite.socketba.SocketBAPlugin"
+      ],
+      "version": "1.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketba.jar",
+      "hash": "8447fa463034d50ae11271f65ceea4755c93621317ed1302bc7be73696bb7e7b",
+      "description": "Sends role information to other players at Barbarian Assault."
+    },
+    {
+      "name": "socketbosstimer.jar",
+      "plugins": [
+        "com.protolite.socketbosstimer.SocketBossTimersPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketbosstimer.jar",
+      "hash": "09426439dacf86198cd3cca1038b82d6507168aa33170c8b4bae8a90d80963b6",
+      "description": "Uses Socket to track boss respawn timers in multiple worlds"
+    },
+    {
+      "name": "socketchat.jar",
+      "plugins": [
+        "com.protolite.socketchat.sChatPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketchat.jar",
+      "hash": "54ce5508dcdbfbecbf40e609c07910fc5f4108af4d9e88048edb58f4940021ad",
+      "description": "Allows communication between other players."
+    },
+    {
+      "name": "socketdks.jar",
+      "plugins": [
+        "com.protolite.socketdks.DKSPlugin"
+      ],
+      "version": "1.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketdks.jar",
+      "hash": "5ceac76bf2d7431f5baed79976cf82ad045d8fa1bb291219de2bbb00f90abc11",
+      "description": "Sends information across Socket at Dagannoth Kings."
+    },
+    {
+      "name": "socketDPS.jar",
+      "plugins": [
+        "com.protolite.socketDPS.SocketDpsCounterPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketDPS.jar",
+      "hash": "1a9c6a668e86c64a323394669115f4da24e7741a99c012f72202ff3457d154b7",
+      "description": "Tracks damage of every player in Socket"
+    },
+    {
+      "name": "sockethealing.jar",
+      "plugins": [
+        "com.protolite.sockethealing.SocketHealingPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/sockethealing.jar",
+      "hash": "19a9c3989b50f25a4157904a0ac33a228aaf1171cc823017cf4aa8d5e133750a",
+      "description": "Tracks Hitpoints of every player in Socket"
+    },
+    {
+      "name": "socketkph.jar",
+      "plugins": [
+        "com.protolite.socketkph.KillSpeedPlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketkph.jar",
+      "hash": "0dd48a2e4de4f69ef922eb08ee64f86386b93bb3ce0a8cf793bf0355ce9441b2",
+      "description": "Tracks kills per hour (KPH) using socket."
+    },
+    {
+      "name": "socketplayerstatus.jar",
+      "plugins": [
+        "com.protolite.socketplayerstatus.PlayerStatusPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketplayerstatus.jar",
+      "hash": "03cb246f89e9530ec9b89a24c8e38f0240126e2f6bb146bed555f27e9246e0e2",
+      "description": "Sends information about each player across Socket."
+    },
+    {
+      "name": "socketplayerstatusextended.jar",
+      "plugins": [
+        "com.protolite.socketplayerstatusextended.PlayerStatusExtendedPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketplayerstatusextended.jar",
+      "hash": "835e47d35033fa3a8a348b6b911298a055380c0d3320a2c6e80ffa827466ff99",
+      "description": "Sends rat information about each player across Socket."
+    },
+    {
+      "name": "socketsotetseg.jar",
+      "plugins": [
+        "com.protolite.socketsotetseg.SotetsegPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/socketsotetseg.jar",
+      "hash": "3f92b44b5224413a03588b09bbb2a4473d5016e7b9f7b6c762c002fafca22d6a",
+      "description": "Sotetseg Maze and other stuff."
+    },
+    {
+      "name": "specbar.jar",
+      "plugins": [
+        "com.protolite.specbar.SpecBarPlugin"
+      ],
+      "version": "1.0.16",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/specbar.jar",
+      "hash": "af578e3beef6f8fae31ec8b3b24e2055380f70cd0488bfd1772d680a2d981948",
+      "description": "Adds a spec bar to every weapon."
+    },
+    {
+      "name": "specorb.jar",
+      "plugins": [
+        "com.protolite.specorb.SpecOrbPlugin"
+      ],
+      "version": "1.0.14",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/specorb.jar",
+      "hash": "9f63d8136e46711bf7114d701d66dbba187d4b67e7c78857ec16c45a86377a58",
+      "description": "Allows you to 1 tick the spec orb."
+    },
+    {
+      "name": "spooncox.jar",
+      "plugins": [
+        "com.protolite.spooncox.SpoonCoxPlugin"
+      ],
+      "version": "1.0.16",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spooncox.jar",
+      "hash": "e5dfeb4eda17d4b7d2e553adb2fd4585851259ff1e0fa43b317af535a6b094a5",
+      "description": "Additional stuff for CoX."
+    },
+    {
+      "name": "spoonezswaps.jar",
+      "plugins": [
+        "com.protolite.spoonezswaps.SpoonEzSwapsPlugin"
+      ],
+      "version": "1.0.13",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoonezswaps.jar",
+      "hash": "5e9eb38c671d9bd353f84525a7ee47fc63d8c9469ada03c4b25657f912ffc308",
+      "description": "All in 1 swaps plugin."
+    },
+    {
+      "name": "spoongauntlet.jar",
+      "plugins": [
+        "com.protolite.spoongauntlet.SpoonGauntletPlugin"
+      ],
+      "version": "1.0.6",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoongauntlet.jar",
+      "hash": "70478ae803e44ffd709459e471062a990f5142240e57383941fcfa39f3b0ff61",
+      "description": "Best Gauntlet plugin."
+    },
+    {
+      "name": "spoonnex.jar",
+      "plugins": [
+        "com.protolite.spoonnex.SpoonNexPlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoonnex.jar",
+      "hash": "f778a444632d2cca896eb9d343b3d9971d57022e8317f1d6c551da4b69c3f503",
+      "description": "Best Nex plugin."
+    },
+    {
+      "name": "spoonnightmare.jar",
+      "plugins": [
+        "com.protolite.spoonnightmare.SpoonNightmarePlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoonnightmare.jar",
+      "hash": "89bb3f7d3e57fa151cbf9e2151bd0ade77c539bc61e3bfac54e63b00671dc0e9",
+      "description": "Best Nightmare plugin ever."
+    },
+    {
+      "name": "spoonobjecthider.jar",
+      "plugins": [
+        "com.protolite.spoonobjecthider.SpoonObjectHiderPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoonobjecthider.jar",
+      "hash": "44879a9f3e167f729205856593071d05769b3515d637ca5e88398b929d0f4ed1",
+      "description": "Hides game objects, ground objects, and presets."
+    },
+    {
+      "name": "spoontob.jar",
+      "plugins": [
+        "com.protolite.spoontob.SpoonTobPlugin"
+      ],
+      "version": "1.0.23",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoontob.jar",
+      "hash": "54d3701ec860b80207918397edf182643824344877a017d2b1577df37b828aaa",
+      "description": "Best ToB plugin ever."
+    },
+    {
+      "name": "spoontobstats.jar",
+      "plugins": [
+        "com.protolite.spoontobstats.SpoonTobStatsPlugin"
+      ],
+      "version": "1.0.5",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spoontobstats.jar",
+      "hash": "386623014457160df27ca9a857c45d878adbd92d3d5b5d09212823bebb4b624c",
+      "description": "Best ToB time plugin ever."
+    },
+    {
+      "name": "streamerswitch.jar",
+      "plugins": [
+        "com.protolite.streamerswitch.StreamerSwitchPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/streamerswitch.jar",
+      "hash": "044aa70294de51a4a242ff97ca7085e3c112a166285c574efda67021dbe8088b",
+      "description": "Disables all external plugins and hides manager."
+    },
+    {
+      "name": "toaplus.jar",
+      "plugins": [
+        "com.protolite.toaplus.ToaPlusPlugin"
+      ],
+      "version": "1.0.11",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/toaplus.jar",
+      "hash": "f02cc4bb8414be7a0e1d1be3ec63faa2ed6020cf81c374298260da359ded0acf",
+      "description": "ToA stuff and such and things and the works and the likes"
+    },
+    {
+      "name": "toaplussimple.jar",
+      "plugins": [
+        "com.protolite.toaplussimple.ToaPlusPluginSimple"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/toaplussimple.jar",
+      "hash": "7c9a2e699b1ea9f85479c8482fcd17278a9d037cf319edd7d6cd904dd19090b2",
+      "description": "ToA plugins with some of the fluff taken out to run better..... maybe?"
+    },
+    {
+      "name": "tormenteddemons.jar",
+      "plugins": [
+        "com.protolite.tormenteddemons.TormentedDemonsPlugin"
+      ],
+      "version": "1.0.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/tormenteddemons.jar",
+      "hash": "95b86c94e2bf6ef521650c792cc6d234ff5c8a6b51d2102ac3af2ce62d675873",
+      "description": "Tormented Demons plugin."
+    },
+    {
+      "name": "wildybossplus.jar",
+      "plugins": [
+        "com.protolite.wildybossplus.WildyBossPlusPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/wildybossplus.jar",
+      "hash": "dfc5fbd5173d4f746cae63ecb1d8a6d9d09374a6b118db43c788fcd8a76b274f",
+      "description": "Extra wildy boss plugins (AoE indicators are in AoE plugin)"
+    },
+    {
+      "name": "yamaplus.jar",
+      "plugins": [
+        "com.protolite.yamaplus.YamaPlusPlugin"
+      ],
+      "version": "1.0.7",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/yamaplus.jar",
+      "hash": "0975f531ba9cc86691eb9c5c69b54828edf3d98712c814d14acbebae3d5eed77",
+      "description": "Yama stuff and such and things and the likes and the works"
+    },
+    {
+      "name": "zulrah.jar",
+      "plugins": [
+        "com.protolite.zulrah.ZulrahPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/zulrah.jar",
+      "hash": "3dbf01c12115e29897bab63bbe4c36357597dbd6e3719104a466c069658f2b57",
+      "description": "An overlay for the Zulrah fight."
+    },
+    {
+      "name": "protolite-socket-host.jar",
+      "plugins": [
+        "com.protolite.sockethost.SocketHostPlugin"
+      ],
+      "version": "0.2.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-socket-host.jar",
+      "hash": "4b32d2370a5d31c7362d2bd527b95425ee6dd1267dbd71c246fe3f9c58e96b2e",
+      "description": "Host a Socket server while enabled. Editable port, room limit and IP limit; stops when disabled."
+    },
+    {
+      "name": "protolite-prayer-box-test.jar",
+      "plugins": [
+        "com.protolite.prayerboxtest.PrayerBoxTestPlugin"
+      ],
+      "version": "0.1.1",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-prayer-box-test.jar",
+      "hash": "3fbed2f1d104b5b30475e6fe2507171ec7774fadddbded418e1737394a520a56",
+      "description": "Preview Olm and Verzik prayer boxes with seven test buttons; no game actions."
+    },
+    {
+      "name": "protolite-widget-ids.jar",
+      "plugins": [
+        "com.protolite.widgetids.WidgetIdsPlugin"
+      ],
+      "version": "0.1.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-widget-ids.jar",
+      "hash": "e4cb465148d43be96d81d14e993dd6515d1ae803bf3327cd2f1f0fc5faac60fb",
+      "description": "Identify a widget and its parent chain using a selection click."
+    },
+    {
+      "name": "protolite-identificator.jar",
+      "plugins": [
+        "com.protolite.identificator.IdentificatorPlugin"
+      ],
+      "version": "1.8.9",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-identificator.jar",
+      "hash": "aa00c44b36df5eaa56025d53e97ea5d9ced2c89d5481d87bd0f7bde3cbc01ab3",
+      "description": "Display IDs in all regions without object-ID blacklists."
+    },
+    {
+      "name": "protolite-watchdog.jar",
+      "plugins": [
+        "com.protolite.watchdog.WatchdogPlugin"
+      ],
+      "version": "4.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-watchdog.jar",
+      "hash": "2054b20feeaaaf9abbe6e08f01485322618e5bdebc6c14a7bc5b7aa09e342b1a",
+      "description": "Custom alerts in all regions without boss-area blacklists."
+    },
+    {
+      "name": "jiz-kitty-hider.jar",
+      "plugins": [
+        "com.protolite.jizkittyhider.JZKittyHiderPlugin"
+      ],
+      "version": "1.0.3",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/jiz-kitty-hider.jar",
+      "hash": "120d936df3c4a580f803577749005e4e63a54033744c351e67a2db0a994d0b05",
+      "description": "Hide NPCs and players using configurable names, IDs, combat levels and equipment value."
+    },
+    {
+      "name": "jiz-kitty-spellbook.jar",
+      "plugins": [
+        "com.protolite.jizkittyspellbook.JZKittySpellbookPlugin"
+      ],
+      "version": "1.0.4",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/jiz-kitty-spellbook.jar",
+      "hash": "b569fd60422af044298a8bd27c0c991f084fa3a8ac90090709143a0083dc8cf6",
+      "description": "Customize visible spells, icon size and spacing without automatic gameplay actions."
+    },
+    {
+      "name": "xk-blackjack.jar",
+      "plugins": [
+        "com.protolite.blackjack.BlackjackPlugin"
+      ],
+      "version": "0.0.8",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/xk-blackjack.jar",
+      "hash": "6c1cb972650c51c6165b1619b25ef0722607cf5664432f62cfa8eb7b28c70e07",
+      "description": "Manual-click Knock-out and Pickpocket menu helper."
+    },
+    {
+      "name": "ganom-custom-swapper.jar",
+      "plugins": [
+        "com.protolite.ganom.customswapper.CustomSwapper"
+      ],
+      "version": "0.1.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-custom-swapper.jar",
+      "hash": "49a5650815f4cf427b5cdfa77654d226f3f6a17ef4906673d13b75adabee87fd",
+      "description": "Configured hotkey sequences for equipment, prayers, spells and special attack."
+    },
+    {
+      "name": "ganom-oneclick.jar",
+      "plugins": [
+        "com.protolite.ganom.oneclick.OneClick"
+      ],
+      "version": "0.1.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-oneclick.jar",
+      "hash": "7092723d9f2a60479e70b42c479a760e999ab287e1088f34694f2066eda6a856",
+      "description": "Click-triggered helpers for the original 14 Ganom activities."
+    }
+  ]
+}
