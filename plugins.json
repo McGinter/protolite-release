@@ -1258,5 +1258,23 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://github.com/McGinter/protolite-client",
+    "provider": "ProtoLite",
+    "name": "Redemption Hider",
+    "packageId": "redemptionhider",
+    "description": "Hide other players' Redemption effect while preserving your own.",
+    "mainClassName": "RedemptionHiderPlugin",
+    "id": "protolite-redemption-hider",
+    "releases": [
+      {
+        "date": "2026-10-15",
+        "sha512sum": "8F6306422F27A89FCD23942E9B989225261F3584C2AE260B86DECF2AAF02257AED13D689D15276D30D49C61E5401623099F54548D86C0CCF3C99A31BA807AD6E",
+        "version": "1.0.0",
+        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-redemption-hider.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]

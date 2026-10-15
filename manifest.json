@@ -699,6 +699,16 @@
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-oneclick.jar",
       "hash": "d41a00587a48fec5d0097c35f2d86e6d2c63a553b3189e3520e406128ead963f",
       "description": "Click-triggered helpers for the original 14 Ganom activities."
+    },
+    {
+      "name": "protolite-redemption-hider.jar",
+      "plugins": [
+        "com.protolite.redemptionhider.RedemptionHiderPlugin"
+      ],
+      "version": "1.0.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-redemption-hider.jar",
+      "hash": "69b7f72b6350b702e0b4020b9270786b6ff3d7a663701c715950b24d62d6caa8",
+      "description": "Hide other players' Redemption effect while preserving your own."
     }
   ]
 }
