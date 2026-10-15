@@ -136,8 +136,8 @@
     "releases": [
       {
         "date": "2026-10-14",
-        "sha512sum": "62092FA769503A03C12D0642FAAA8F43D70627FFA80E75A6D72B200B518FAC43075E0DB9A2BAE679FEDE463330DDC481839F80BC61885460CBCFB1B90FF4ACD0",
-        "version": "0.2.2",
+        "sha512sum": "0D81FEEE7EB2516C468ED11C3438EE2651BC6389A84137AF81937F903BF832D51A75CE3365043328549917170F464CBD0874BE75BAAE4FCD9EB17A5DF73E114D",
+        "version": "0.3.0",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
         "requires": "^1.0.0"
       }
@@ -532,8 +532,8 @@
     "releases": [
       {
         "date": "2026-10-14",
-        "sha512sum": "9523293449BFD0719DE9FBA5383B238465F2380EBDB420E81631207E00A5B0516C7D452A186F9C732F3C3F5430D3CD128A7D5AAC8EDABBA64457F7F995D2AEA8",
-        "version": "1.0.3",
+        "sha512sum": "6F8AE6DEC34CA74362D64F60CC3D97DF441BC82247BD7208D4133FF822169C95362D71E4DEAFE84FB061C9D2B9939023497F156B806B89972255B9B05FF78ACA",
+        "version": "1.1.0",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/panelhider.jar",
         "requires": "^1.0.0"
       }

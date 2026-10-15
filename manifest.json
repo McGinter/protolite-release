@@ -75,9 +75,9 @@
       "plugins": [
         "com.protolite.protoliteexternalmanager.ProtoLiteExternalManager"
       ],
-      "version": "0.2.2",
+      "version": "0.3.0",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
-      "hash": "03237767c418c141a8a737a48acef55b84700275df3dbd43297ad865b2bc94bf",
+      "hash": "28e6606db7b7a831773041dd8930e3622aaf4b9d9eff5f94df33936b62d95538",
       "description": "ProtoLite external plugin manager and API"
     },
     {
@@ -295,9 +295,9 @@
       "plugins": [
         "com.protolite.panelhider.PanelHiderPlugin"
       ],
-      "version": "1.0.3",
+      "version": "1.1.0",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/panelhider.jar",
-      "hash": "e8c02084a636f0f717c6708f410c8f069939ac97000d52da5acc639774f894b2",
+      "hash": "f4289d31b1cf838c6989bc05b935a978bf68bea15c2e08fd5cb8426f9dcff196",
       "description": "Hides panels via tooltip text"
     },
     {
