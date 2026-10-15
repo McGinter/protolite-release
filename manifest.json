@@ -75,9 +75,9 @@
       "plugins": [
         "com.protolite.protoliteexternalmanager.ProtoLiteExternalManager"
       ],
-      "version": "0.2.1",
+      "version": "0.2.2",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
-      "hash": "38097751b7cdc19ddafe5c69c2f6af2248be44eb21a2ce5f921e83211c19da65",
+      "hash": "03237767c418c141a8a737a48acef55b84700275df3dbd43297ad865b2bc94bf",
       "description": "ProtoLite external plugin manager and API"
     },
     {
