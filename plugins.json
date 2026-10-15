@@ -820,8 +820,8 @@
     "releases": [
       {
         "date": "2026-10-14",
-        "sha512sum": "6C36CC72BC39D3EEE7CC0C80C71EC1DB5460D0E32A57A1D55F972BED7A02EE1A6BEFF5102EEB8047E6F8743F77E557C681322C74D68A4373B78A84A3E99210AC",
-        "version": "1.0.17",
+        "sha512sum": "B9A7570E8B629C98AEFCF231F6B0A140C84D5BB7438876C73ED5A97005FBB69D6C1EA39B24176B896752361F2AA7FC5D5D6E4F4032E498175995CBBB9E318F51",
+        "version": "1.0.18",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spooncox.jar",
         "requires": "^1.0.0"
       }

@@ -455,9 +455,9 @@
       "plugins": [
         "com.protolite.spooncox.SpoonCoxPlugin"
       ],
-      "version": "1.0.17",
+      "version": "1.0.18",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/spooncox.jar",
-      "hash": "576b425fa1d3813c96f620ec508ca6193ed04d517e426a5ff2d7400aafcaa8c3",
+      "hash": "64385563ef5383b8864cd84aa586bc00d0bcdd8043a95a8d526fae732edbb090",
       "description": "Additional stuff for CoX."
     },
     {
