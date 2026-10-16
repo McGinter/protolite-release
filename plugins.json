@@ -1233,10 +1233,10 @@
     "id": "ganom-custom-swapper",
     "releases": [
       {
-        "sha512sum": "F6E436F9880E6B7675D3974A0656F3A52356F56DB6A154E8421BA3A4A41372DCF1E5F2D10F749C34EE29CB09607591DD7EE58C7A57334176C057B63EDE58CD37",
+        "sha512sum": "0AA79E8E01281A016C9BAD2444F338C66BA86619D1D0F75B78B990847ED218400A955CCC9C965FDE818E5DA985119C79365F004127B3DDF3AE89241FBA7A6CF5",
         "date": "2026-10-16",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/ganom-custom-swapper.jar",
-        "version": "0.2.5",
+        "version": "0.2.6",
         "requires": "^1.0.0"
       }
     ]
