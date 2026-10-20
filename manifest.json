@@ -715,10 +715,10 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.12",
+      "version": "0.1.13",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "2c56a532f61bde5c6f180a472aacd7c49c34abb23e73f5f19864834c0eb2909d",
-      "description": "TFA prayer modes, Bork stun/stomp countdowns and Guardian markers."
+      "hash": "a1949a267c57fdcdff22e573dff51bbf55c8afde2b3c1ba3751df144b30390ea",
+      "description": "TFA prayer cues, boss timers, Guardian markers and Animated Sword countdowns and lanes."
     }
   ]
 }
