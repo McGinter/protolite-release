@@ -1300,14 +1300,14 @@
     "provider": "ProtoLite",
     "name": "TFA Helper",
     "packageId": "tfa",
-    "description": "TFA raid timers and prayer cues with independent debug categories, moving projectile IDs and bounded non-overlapping labels.",
+    "description": "TFA raid timers and prayer cues with independent debug categories, moving projectile IDs and optional player-source filtering.",
     "mainClassName": "TfaPlugin",
     "id": "protolite-tfa-helper",
     "releases": [
       {
         "date": "2026-10-20",
-        "sha512sum": "C6596E7FDE6D82C8CC24383DEC3FF952351B05BDF77FA30869977F41DE3CFA6DA2A55346733D2CE352638373EB8DAC5B86253D7FC1B62B51B728AA1CA692958F",
-        "version": "0.1.17",
+        "sha512sum": "136948B703F180E5058AA1551A5F2D97CF4E4EBCB12E74659945B5D38698EB66EE04043EDE3F928E927835F9124E37DF20FE3019A9FB8E56E0D90B495063341A",
+        "version": "0.1.18",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
