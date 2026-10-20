@@ -635,10 +635,10 @@
       "plugins": [
         "com.protolite.identificator.IdentificatorPlugin"
       ],
-      "version": "1.8.9",
+      "version": "1.8.10",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-identificator.jar",
-      "hash": "aa00c44b36df5eaa56025d53e97ea5d9ced2c89d5481d87bd0f7bde3cbc01ab3",
-      "description": "Display IDs in all regions without object-ID blacklists."
+      "hash": "fa042b4d6d3d3c94a925353ad8f1cbf2f633359f9b7d2c4afaec34d3ad28c921",
+      "description": "Display IDs in all regions, including official TFA API symbols, with bounded debug overhead."
     },
     {
       "name": "protolite-watchdog.jar",
@@ -715,10 +715,10 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.15",
+      "version": "0.1.16",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "4c8db05b5a1a2a02ede7f8d3237eedec4f48e06d6e3f552f4908062d855afd8a",
-      "description": "TFA official API debug names, Bork attack and Smork cannon countdowns, prayer cues and raid markers."
+      "hash": "5547dd63b3ff763e8b50ca8def482ebd97316ed167eccaa06203276b9316274f",
+      "description": "TFA raid timers and prayer cues, Ocellus void and safe portal countdowns, optional bounded debugging."
     }
   ]
 }

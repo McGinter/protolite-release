@@ -1138,15 +1138,15 @@
     "provider": "ProtoLite (upstream Skretzo)",
     "name": "Identificator",
     "packageId": "protolite-identificator",
-    "description": "Display IDs for NPCs, objects, animations and more in every region.",
+    "description": "Display IDs in all regions, including official TFA API symbols, with bounded debug overhead.",
     "mainClassName": "IdentificatorPlugin",
     "id": "protolite-identificator",
     "releases": [
       {
-        "sha512sum": "7D0B0AD55CEB67251269100B2EA7F401338AB51FD7923710480162934D24355BD6CF34969160D54EB1B38AE50B6C6A1DDF200FB42387E021CBCC47FAB31FD2A9",
-        "date": "2026-10-14",
+        "sha512sum": "780631E4B04299516E1ADC36177CDA448DED10BE41346798C4D06D82B965A8391C9F8D444CE343068DDC567102131D736B516A4CBD14C4D26BDF955E94C1689C",
+        "date": "2026-10-20",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-identificator.jar",
-        "version": "1.8.9",
+        "version": "1.8.10",
         "requires": "^1.0.0"
       }
     ]
@@ -1282,14 +1282,14 @@
     "provider": "ProtoLite",
     "name": "TFA Helper",
     "packageId": "tfa",
-    "description": "TFA official API debug names, Bork attack and Smork cannon countdowns, prayer cues and raid markers.",
+    "description": "TFA raid timers and prayer cues, Ocellus void and safe portal countdowns, optional bounded debugging.",
     "mainClassName": "TfaPlugin",
     "id": "protolite-tfa-helper",
     "releases": [
       {
         "date": "2026-10-20",
-        "sha512sum": "87D190EEA25FDAB73AC4531EA8C03458797E426C7C6BCE972E3FAF2369F3BA3E15DD9A21D2912E68DC37128C3EE7C424CD6C3DAB8C482870E6E94EABD82B3487",
-        "version": "0.1.15",
+        "sha512sum": "0F3DE9CDB784D920E906FE29456FDCBE9D91FD405FD22FBF7E08826556B83F5D64202DDA243D17E63DBFC4F553C3EA46BC66C63DE15DA8A3903D616C4A3C5115",
+        "version": "0.1.16",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
