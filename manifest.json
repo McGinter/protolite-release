@@ -715,9 +715,9 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.0",
+      "version": "0.1.1",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "9a8bb7d1d98b0c541ad0aba7f8ef2cc0736a7e0f1fff2e0b1ff6e9e05d0740c5",
+      "hash": "6c052cc5ad95a59d92c3e2bed4bc23bd1bc2f7a092f6e2daaf0ebaeb35279adc",
       "description": "TFA observed effect labels and location markers."
     }
   ]
