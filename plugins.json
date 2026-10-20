@@ -315,9 +315,9 @@
     "id": "deserttreasure-plugin",
     "releases": [
       {
-        "date": "2026-10-20",
-        "sha512sum": "B29C1311F5138EA295ADC6A70A14E0FB56A7AC9834F07074D8D0C0511A793B0AD327F19805FCE260B44E697E79B470A3733580C7383EB5185C4778CA44515160",
-        "version": "1.0.9",
+        "date": "2026-10-21",
+        "sha512sum": "E5246047C2758E15751FEF2FCD27486507D9C6C9797D295847E9FB8C81138EB6F71D9F66DC4BE6CAD173DE2067D6D40F04C7DE56BB7D6B088DED6EC2FBC79EE8",
+        "version": "1.0.10",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/dt2.jar",
         "requires": "^1.0.0"
       }
