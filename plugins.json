@@ -1288,8 +1288,8 @@
     "releases": [
       {
         "date": "2026-10-20",
-        "sha512sum": "A1EF1477BB332FD06F2F400A6773D497DA922E321D536ABA4B7858C68BFE41E29F4BFFF190778C906754875AB23132CF09D271935F475901A61AB73A81CD169C",
-        "version": "0.1.8",
+        "sha512sum": "C7A3BCBACB161F95953914FEA2E9ABAB94ABA570053BA6E56FD8868EB1ADAD35FE312332EABE75298C96EEE329FD80A18B3204C8DC914CFFF43A348C7EE77708",
+        "version": "0.1.9",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
