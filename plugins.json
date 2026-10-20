@@ -316,8 +316,8 @@
     "releases": [
       {
         "date": "2026-10-21",
-        "sha512sum": "E5246047C2758E15751FEF2FCD27486507D9C6C9797D295847E9FB8C81138EB6F71D9F66DC4BE6CAD173DE2067D6D40F04C7DE56BB7D6B088DED6EC2FBC79EE8",
-        "version": "1.0.10",
+        "sha512sum": "DB28F48AA3F356D0117C4365547CC38628D8756848D2B443FB5E0D5D3620CB16EF2B8210A7CA36EECBFA1931174033215F402D68419ED1DCC91AA7B6B1352DE4",
+        "version": "1.0.11",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/dt2.jar",
         "requires": "^1.0.0"
       }
