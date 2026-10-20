@@ -715,10 +715,10 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.9",
+      "version": "0.1.10",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "e2e1edb0968481c07a76e313c4236b1841d80c2b995efb56f1b4fddaa9979167",
-      "description": "TFA CoX-style prayer box, black mushroom areas and Guardian/Bork timers."
+      "hash": "3a177103fac794265b40ad6ebe0e453ce2cc34f275bf8c2f541a9ca3efbd057f",
+      "description": "TFA prayer modes, Bork stun/stomp countdowns and Guardian markers."
     }
   ]
 }
