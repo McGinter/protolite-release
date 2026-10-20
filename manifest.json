@@ -715,9 +715,9 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.10",
+      "version": "0.1.11",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "3a177103fac794265b40ad6ebe0e453ce2cc34f275bf8c2f541a9ca3efbd057f",
+      "hash": "df71b3b62af019dc709d4d4be658cc532f2e2ec7bb4bdc53b788172bbf7439c1",
       "description": "TFA prayer modes, Bork stun/stomp countdowns and Guardian markers."
     }
   ]
