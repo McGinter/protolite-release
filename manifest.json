@@ -635,10 +635,10 @@
       "plugins": [
         "com.protolite.identificator.IdentificatorPlugin"
       ],
-      "version": "1.8.10",
+      "version": "1.8.11",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-identificator.jar",
-      "hash": "fa042b4d6d3d3c94a925353ad8f1cbf2f633359f9b7d2c4afaec34d3ad28c921",
-      "description": "Display IDs in all regions, including official TFA API symbols, with bounded debug overhead."
+      "hash": "e6603052125f6d9ed7dda0372dd862ab9949683abb5786e31d16c10325748ad9",
+      "description": "Display IDs and TFA names with isolated enable state, Shift-gated overlays and bounded debugging."
     },
     {
       "name": "protolite-watchdog.jar",

@@ -1138,15 +1138,15 @@
     "provider": "ProtoLite (upstream Skretzo)",
     "name": "Identificator",
     "packageId": "protolite-identificator",
-    "description": "Display IDs in all regions, including official TFA API symbols, with bounded debug overhead.",
+    "description": "Display IDs and TFA names with isolated enable state, Shift-gated overlays and bounded debugging.",
     "mainClassName": "IdentificatorPlugin",
     "id": "protolite-identificator",
     "releases": [
       {
-        "sha512sum": "780631E4B04299516E1ADC36177CDA448DED10BE41346798C4D06D82B965A8391C9F8D444CE343068DDC567102131D736B516A4CBD14C4D26BDF955E94C1689C",
+        "sha512sum": "EF4425F226C581B858C0CBC77B47A612D80EBC1AA15A846DA6418F687BCFDF699BE2D2B935FFE56CD1415DA1F74A3FB7A674378E783C10738923A1A06AD47A88",
         "date": "2026-10-20",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-identificator.jar",
-        "version": "1.8.10",
+        "version": "1.8.11",
         "requires": "^1.0.0"
       }
     ]
