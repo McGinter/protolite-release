@@ -715,10 +715,10 @@
       "plugins": [
         "com.protolite.tfa.TfaPlugin"
       ],
-      "version": "0.1.14",
+      "version": "0.1.15",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "2ff26a439728e18aa8a7ca1582974babf3b10f8ff59050325414de59d91b3b2a",
-      "description": "TFA prayer cues, adaptive Bork next-attack countdowns, boss timers and raid markers."
+      "hash": "4c8db05b5a1a2a02ede7f8d3237eedec4f48e06d6e3f552f4908062d855afd8a",
+      "description": "TFA official API debug names, Bork attack and Smork cannon countdowns, prayer cues and raid markers."
     }
   ]
 }
