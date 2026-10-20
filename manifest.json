@@ -709,6 +709,16 @@
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-redemption-hider.jar",
       "hash": "fc1dab0064ed3340736e6ab0796547ae4c262a875736d400faf6ae0cda72d63f",
       "description": "Hide other players' Redemption overhead icon and activation effect while preserving your own."
+    },
+    {
+      "name": "protolite-tfa-helper.jar",
+      "plugins": [
+        "com.protolite.tfa.TfaPlugin"
+      ],
+      "version": "0.1.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
+      "hash": "9a8bb7d1d98b0c541ad0aba7f8ef2cc0736a7e0f1fff2e0b1ff6e9e05d0740c5",
+      "description": "TFA observed effect labels and location markers."
     }
   ]
 }

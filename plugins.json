@@ -1276,5 +1276,23 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://github.com/McGinter/protolite-client",
+    "provider": "ProtoLite",
+    "name": "TFA Helper",
+    "packageId": "tfa",
+    "description": "TFA observed effect labels and location markers.",
+    "mainClassName": "TfaPlugin",
+    "id": "protolite-tfa-helper",
+    "releases": [
+      {
+        "date": "2026-10-20",
+        "sha512sum": "26F52CCC6B9ED75AA1ED951285715D0EB5B50A0586300F5A643EEDEAEBB9D3A3E2DE4C80113665D730375441CF6C4EDD44624DA114427C596BA9226F0AC175D7",
+        "version": "0.1.0",
+        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]
