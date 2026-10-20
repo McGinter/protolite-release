@@ -1282,14 +1282,14 @@
     "provider": "ProtoLite",
     "name": "TFA Helper",
     "packageId": "tfa",
-    "description": "TFA blue mushroom areas, Guardian enrage/tentacle timers and Bork stun countdown.",
+    "description": "TFA black mushroom areas, Guardian enrage/tentacle timers and Bork stun countdown.",
     "mainClassName": "TfaPlugin",
     "id": "protolite-tfa-helper",
     "releases": [
       {
         "date": "2026-10-20",
-        "sha512sum": "0D7055F28103A60FC7BC88CE94B0DB24FDDEC9E395287CECDBBF4862F199BF01E3B79E734CB5794C0952B5E70487BD4BE3687B682EE019217B77AA30B0A545FF",
-        "version": "0.1.4",
+        "sha512sum": "780304055FEC91BD081B65A94329FB74066F7168914CD6756081596580A26187934BEDB7B28478FEB53604E5E478085ECAE20D6FC57CFD81A15B9D7B0E43D78A",
+        "version": "0.1.5",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
