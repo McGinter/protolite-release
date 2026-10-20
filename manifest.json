@@ -725,9 +725,9 @@
       "plugins": [
         "com.protolite.famousplayers.FamousPlayersPlugin"
       ],
-      "version": "0.1.0",
+      "version": "0.1.1",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-famous-player-highlighter.jar",
-      "hash": "3a81a922c67dea6265193627e4ac6df3fd9ba4c35e4c41dfced4f69f7dfed2ec",
+      "hash": "48647d0222a8393849129bcde260979a0e1905d049231d4b5131f2d83d5fd790",
       "description": "Show configured players' names above their heads in gold with an animated glow."
     }
   ]
