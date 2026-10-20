@@ -711,16 +711,6 @@
       "description": "Hide other players' Redemption overhead icon and activation effect while preserving your own."
     },
     {
-      "name": "protolite-tfa-helper.jar",
-      "plugins": [
-        "com.protolite.tfa.TfaPlugin"
-      ],
-      "version": "0.1.16",
-      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-      "hash": "5547dd63b3ff763e8b50ca8def482ebd97316ed167eccaa06203276b9316274f",
-      "description": "TFA raid timers and prayer cues, Ocellus void and safe portal countdowns, optional bounded debugging."
-    },
-    {
       "name": "protolite-famous-player-highlighter.jar",
       "plugins": [
         "com.protolite.famousplayers.FamousPlayersPlugin"
@@ -729,6 +719,16 @@
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-famous-player-highlighter.jar",
       "hash": "48647d0222a8393849129bcde260979a0e1905d049231d4b5131f2d83d5fd790",
       "description": "Show configured players' names above their heads in gold with an animated glow."
+    },
+    {
+      "name": "protolite-tfa-helper.jar",
+      "plugins": [
+        "com.protolite.tfa.TfaPlugin"
+      ],
+      "version": "0.1.17",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
+      "hash": "374c099f8bb341b091531c2d7a313cf736eb53e2734296641269cf533bb2dfd2",
+      "description": "TFA raid timers and prayer cues with independent debug categories, moving projectile IDs and bounded non-overlapping labels."
     }
   ]
 }

@@ -1280,24 +1280,6 @@
   {
     "projectUrl": "https://github.com/McGinter/protolite-client",
     "provider": "ProtoLite",
-    "name": "TFA Helper",
-    "packageId": "tfa",
-    "description": "TFA raid timers and prayer cues, Ocellus void and safe portal countdowns, optional bounded debugging.",
-    "mainClassName": "TfaPlugin",
-    "id": "protolite-tfa-helper",
-    "releases": [
-      {
-        "date": "2026-10-20",
-        "sha512sum": "0F3DE9CDB784D920E906FE29456FDCBE9D91FD405FD22FBF7E08826556B83F5D64202DDA243D17E63DBFC4F553C3EA46BC66C63DE15DA8A3903D616C4A3C5115",
-        "version": "0.1.16",
-        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
-        "requires": "^1.0.0"
-      }
-    ]
-  },
-  {
-    "projectUrl": "https://github.com/McGinter/protolite-client",
-    "provider": "ProtoLite",
     "name": "Famous Names",
     "packageId": "famousplayers",
     "description": "Show configured players' names above their heads in gold with an animated glow.",
@@ -1309,6 +1291,24 @@
         "sha512sum": "825AE8B9944913CA27939783E1039A4F79F8011736FCB07865679E6AC6F97957ABB3A2EED57D6AC02307D83E811759B083D34AE54D1879426E8426E3A46B3683",
         "version": "0.1.1",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-famous-player-highlighter.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://github.com/McGinter/protolite-client",
+    "provider": "ProtoLite",
+    "name": "TFA Helper",
+    "packageId": "tfa",
+    "description": "TFA raid timers and prayer cues with independent debug categories, moving projectile IDs and bounded non-overlapping labels.",
+    "mainClassName": "TfaPlugin",
+    "id": "protolite-tfa-helper",
+    "releases": [
+      {
+        "date": "2026-10-20",
+        "sha512sum": "C6596E7FDE6D82C8CC24383DEC3FF952351B05BDF77FA30869977F41DE3CFA6DA2A55346733D2CE352638373EB8DAC5B86253D7FC1B62B51B728AA1CA692958F",
+        "version": "0.1.17",
+        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
     ]
