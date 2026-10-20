@@ -1294,5 +1294,23 @@
         "requires": "^1.0.0"
       }
     ]
+  },
+  {
+    "projectUrl": "https://github.com/McGinter/protolite-client",
+    "provider": "ProtoLite",
+    "name": "Famous Player Highlighter",
+    "packageId": "famousplayers",
+    "description": "Show configured players' names above their heads in gold with an animated glow.",
+    "mainClassName": "FamousPlayersPlugin",
+    "id": "protolite-famous-player-highlighter",
+    "releases": [
+      {
+        "date": "2026-10-20",
+        "sha512sum": "0D4523A669995212BB2A7A07C46AA43F53799C53678559FCD987A17A1846C6C9BFAEDE417E76B5D8E843A2324F9CC3A35367BB84FBE1199D44418560A0CAB016",
+        "version": "0.1.0",
+        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-famous-player-highlighter.jar",
+        "requires": "^1.0.0"
+      }
+    ]
   }
 ]

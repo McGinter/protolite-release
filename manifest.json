@@ -719,6 +719,16 @@
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
       "hash": "5547dd63b3ff763e8b50ca8def482ebd97316ed167eccaa06203276b9316274f",
       "description": "TFA raid timers and prayer cues, Ocellus void and safe portal countdowns, optional bounded debugging."
+    },
+    {
+      "name": "protolite-famous-player-highlighter.jar",
+      "plugins": [
+        "com.protolite.famousplayers.FamousPlayersPlugin"
+      ],
+      "version": "0.1.0",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-famous-player-highlighter.jar",
+      "hash": "3a81a922c67dea6265193627e4ac6df3fd9ba4c35e4c41dfced4f69f7dfed2ec",
+      "description": "Show configured players' names above their heads in gold with an animated glow."
     }
   ]
 }
