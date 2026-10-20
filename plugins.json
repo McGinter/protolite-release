@@ -1282,14 +1282,14 @@
     "provider": "ProtoLite",
     "name": "TFA Helper",
     "packageId": "tfa",
-    "description": "TFA observed effect labels and location markers.",
+    "description": "TFA effect markers, Guardian mushroom areas and Bork stun countdown.",
     "mainClassName": "TfaPlugin",
     "id": "protolite-tfa-helper",
     "releases": [
       {
         "date": "2026-10-20",
-        "sha512sum": "58B694F2F58F9988C7F2F191EA9AB6F7EAE154AE9522473D22D7201B3676736C94D3B0250AD0E63E4DEEFA317527263FF308E6C40D0AA3650E5C8B3768DC7C32",
-        "version": "0.1.1",
+        "sha512sum": "9EB40D717637DE1B0C6924D0F925420588F2F30BD16D3E70DAE1AD5C44F767FD2F187E0EEADE64E3B6C2AE9AC3DE3CDFB1EB1F63B09A82B850DC7E39021115C4",
+        "version": "0.1.2",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
         "requires": "^1.0.0"
       }
