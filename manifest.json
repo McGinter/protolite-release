@@ -175,9 +175,9 @@
       "plugins": [
         "com.protolite.dt2.Dt2Plugin"
       ],
-      "version": "1.0.13",
+      "version": "1.0.14",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/dt2.jar",
-      "hash": "e44224dbfb62429c69c300b5b3dcac1bfcbc5b689815391783987d3e861004de",
+      "hash": "b1bcc4861a23ae939a9b43b32a0846f63f27c2aa1d6a82be5ed42ce00b22237a",
       "description": "Plugin for DT2 bosses."
     },
     {
