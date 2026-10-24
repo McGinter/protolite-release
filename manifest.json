@@ -735,9 +735,9 @@
       "plugins": [
         "com.protolite.thehardrchives.TheHardRchivesPlugin"
       ],
-      "version": "1.0.2",
+      "version": "1.0.3",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hardarchives.jar",
-      "hash": "93153319fae38d4cc79f2354b645125006441a2d25465483e884df89c63ede6c",
+      "hash": "104ff51617db9a4f1edbf8c3dd800509c7b7ab5c196332e93484254440f81c2b",
       "description": "Encounter timers, tile highlights and prayer indicators for the Fractured Archives."
     }
   ]

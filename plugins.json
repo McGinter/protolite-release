@@ -1324,8 +1324,8 @@
     "releases": [
       {
         "date": "2026-10-24",
-        "sha512sum": "31B24F58C6594C15051C3B83BBB944F02C682BA5411218907FFEFC09C2238AB4F989BADFADBC08ACA03F678B28503D1D4197BF01BC3CCB278B84CF3F88205969",
-        "version": "1.0.2",
+        "sha512sum": "49861750D8907E923F5091A5F789EA87EC515797424EEF84DDC3752FA26FBA82F21930EFC60114608574C1540C3CA154F7423C43F3E297E176EFB25B750936CB",
+        "version": "1.0.3",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hardarchives.jar",
         "requires": "^1.0.0"
       }
