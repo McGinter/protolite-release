@@ -135,9 +135,9 @@
     "id": "protoliteexternalmanager-plugin",
     "releases": [
       {
-        "date": "2026-10-14",
-        "sha512sum": "67DDD7F914696BF66332AC91EAF9FCCCDFD30F145876A5ABA002628BB888D0F7BDC02B786D934DEB4C9A0B86CD74494D4D2F9170C46B04FCCD0B139A3F8C15D3",
-        "version": "0.3.1",
+        "date": "2026-10-24",
+        "sha512sum": "27DF32531A4235662182EE21D380C510FB76B9CB9AD2296CFF200288143F8CF7E9BE5F1C481B75E09018B084C319CE9B04E805C3B96AF890EAF8246F3CAF499A",
+        "version": "0.3.2",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
         "requires": "^1.0.0"
       }
@@ -1309,6 +1309,24 @@
         "sha512sum": "D4A09886462BA6F45932579C12AAB5C5C3EEC223598A5D0B91DADF69451648933E60A929EE9AC3AABDA2B1215C3875ED9DDB9B69DF3A7A40E3C819B3257449F0",
         "version": "0.1.20",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
+        "requires": "^1.0.0"
+      }
+    ]
+  },
+  {
+    "projectUrl": "https://github.com/McGinter/protolite-client",
+    "provider": "ProtoLite",
+    "name": "Hard Archives",
+    "packageId": "thehardrchives",
+    "description": "Encounter timers, tile highlights and prayer indicators for the Fractured Archives.",
+    "mainClassName": "TheHardRchivesPlugin",
+    "id": "hardarchives-plugin",
+    "releases": [
+      {
+        "date": "2026-10-24",
+        "sha512sum": "31B24F58C6594C15051C3B83BBB944F02C682BA5411218907FFEFC09C2238AB4F989BADFADBC08ACA03F678B28503D1D4197BF01BC3CCB278B84CF3F88205969",
+        "version": "1.0.2",
+        "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hardarchives.jar",
         "requires": "^1.0.0"
       }
     ]

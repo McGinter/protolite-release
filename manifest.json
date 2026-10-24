@@ -75,9 +75,9 @@
       "plugins": [
         "com.protolite.protoliteexternalmanager.ProtoLiteExternalManager"
       ],
-      "version": "0.3.1",
+      "version": "0.3.2",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
-      "hash": "41963de5d4e869179b8699dbf8bfd7acd758b1230c95a5b8e0293b34757782bb",
+      "hash": "7b1dcf4bcbee8565f701f9b15c2e5781c76298e9c50391cd39b4c4f2882f2869",
       "description": "ProtoLite external plugin manager and API"
     },
     {
@@ -729,6 +729,16 @@
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protolite-tfa-helper.jar",
       "hash": "b4604638a94c8d6b025018347bc5accf25f55a5adff86fb7f7387cb37242ecd1",
       "description": "TFA raid timers, prayer cues and simple debugging with cached actor metadata, cached spectator marks and bounded Guardian scans."
+    },
+    {
+      "name": "hardarchives.jar",
+      "plugins": [
+        "com.protolite.thehardrchives.TheHardRchivesPlugin"
+      ],
+      "version": "1.0.2",
+      "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hardarchives.jar",
+      "hash": "93153319fae38d4cc79f2354b645125006441a2d25465483e884df89c63ede6c",
+      "description": "Encounter timers, tile highlights and prayer indicators for the Fractured Archives."
     }
   ]
 }
