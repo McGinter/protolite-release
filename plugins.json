@@ -136,8 +136,8 @@
     "releases": [
       {
         "date": "2026-10-24",
-        "sha512sum": "27DF32531A4235662182EE21D380C510FB76B9CB9AD2296CFF200288143F8CF7E9BE5F1C481B75E09018B084C319CE9B04E805C3B96AF890EAF8246F3CAF499A",
-        "version": "0.3.2",
+        "sha512sum": "B556106F8453353E2AB9060D4141864025CB2BB75848149ABF33F95FA5F4A1241BC74167B53B67BE6A2423CB3386928A40AFD923BEB9662CC028499654CFFABC",
+        "version": "0.3.3",
         "url": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/protoliteexternalmanager.jar",
         "requires": "^1.0.0"
       }
