@@ -735,10 +735,10 @@
       "plugins": [
         "com.protolite.thehardrchives.TheHardRchivesPlugin"
       ],
-      "version": "1.0.3",
+      "version": "1.0.4",
       "path": "https://raw.githubusercontent.com/McGinter/protolite-release/master/release/hardarchives.jar",
-      "hash": "104ff51617db9a4f1edbf8c3dd800509c7b7ab5c196332e93484254440f81c2b",
-      "description": "Encounter timers, tile highlights and prayer indicators for the Fractured Archives."
+      "hash": "40185f387cd603da964f3bca4250239cb8bf737a77fd1766e4121eeba6bc8163",
+      "description": "Archive Guardian timers, tentacles, mushroom areas and prayer cues, plus Bork, Xarth and Ocellus overlays."
     }
   ]
 }
